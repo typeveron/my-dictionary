@@ -1,8 +1,8 @@
-Clone the repo 
+1       Clone the repo 
 
 
-Open app.py 
+2       Open app.py 
 
 
 
-Enter a word if the word is not spelled correctly it will suggest the correct spelling.
+3       Enter a word if the word is not spelled correctly it will suggest the correct spelling.
